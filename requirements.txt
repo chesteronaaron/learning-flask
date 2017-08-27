@@ -1,9 +1,7 @@
-comtypes==1.1.2
 conda==4.3.25
 Flask==0.12.2
 Flask-Cors==3.0.3
 gunicorn==19.7.1
 SQLAlchemy==1.1.13
-unicodecsv==0.14.1
 virtualenv==15.1.0
 
